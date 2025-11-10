@@ -7,11 +7,7 @@ Created on Novemer 2025
 https://github.com/katiedionne
 """
 
-'''
-Calculate the minimum fabric length (in inches) required to cut all pieces,
-and optionally visualize the layout.
-'''
-
+# Calculate the minimum fabric length required to cut all pieces and optionally visualize the layout.
 
 # %%
 
