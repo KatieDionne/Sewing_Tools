@@ -1,6 +1,7 @@
 This repository is for little python tools to do math for me for assorted sewing projects.
 
 ## Fabric yardage optimizer
+yardage.py
 
 ### Background
 Fabric is sold by the yard, cut from bolts of varying width. Determining how much to buy is a major annoyance but provides a simple packing problem.
